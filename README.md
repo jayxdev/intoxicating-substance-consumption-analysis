@@ -4,7 +4,7 @@ This project aims to analyze the consumption patterns of intoxicating substances
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](https://github.com/jayxdev/intoxicating-substance-consumption-analysis/edit/main/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 > _Preview of the Power BI dashboard showing demographic-wise consumption trends, substance comparison, risk levels, and key KPIs._
 
