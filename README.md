@@ -42,7 +42,7 @@ Access the live Power BI dashboard here:
 
 Created by **Jay Dev**  
 📧 Email: [jay7080dev@gmail.com]  
-🌐 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/jay7080dev)
+🌐 LinkedIn: [linkedin.com/in/jay7080dev](https://linkedin.com/in/jay7080dev)
 
 ---
 
