@@ -33,9 +33,10 @@ Access the live Power BI dashboard here:
 
 ## 📈 Insights Delivered
 
-- Substance use is highest among [30+ age group].
+- 23.74% People Were Daily Users. 
+- Alcohol and Tobacco emerged as the most consumed substances, followed by Cannabis.
+- Substance use is common among youth, often influenced by peers, stress, and curiosity.
 - Emoji-based questions improved engagement by over 30%.
-- High-risk users show strong correlation with [e.g., late-night activity and peer influence].
 
 ## 📬 Contact
 
